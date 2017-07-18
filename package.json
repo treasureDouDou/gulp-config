@@ -1,0 +1,25 @@
+{
+  "scripts": {
+    "dev": "gulp dev",
+    "build": "gulp build"
+  },
+  "dependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-clean-css": "^3.4.2",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-less": "^3.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-rev": "^7.1.2",
+    "gulp-rev-collector": "^1.2.2",
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch-path": "^0.1.0",
+    "imagemin-jpeg-recompress": "^5.1.0",
+    "imagemin-optipng": "^5.2.1"
+  },
+  "devDependencies": {
+    "gulp-clean": "^0.3.2",
+    "run-sequence": "^1.2.2"
+  }
+}
